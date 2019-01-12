@@ -1,2 +1,2 @@
 # vitrualPiano
-Piano simulation with java
+Piano simulation machine
